@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Login Feature","1","0","Invalid Login Attempt","0"
+"0","","0","Change Password Feature","1","0","Successful Password Change","0"
+"0","","0","Change Password Feature","1","0","Change Password with Mismatched Confirmation","0"
+"0","","0","Change Password Feature","1","0","Change Password with Incorrect Current Password","0"
+"0","","0","Login Feature","1","0","Valid Login Attempt","0"

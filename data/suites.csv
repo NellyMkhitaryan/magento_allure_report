@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test the system with invalid login credentials","6562","Test Invalid Login","","Tue Sep 24 02:02:32 AMT 2024","passed","Tue Sep 24 02:02:39 AMT 2024","","test_main","",""
+"Test successful password change","5988","Test Successful Password Change","","Tue Sep 24 02:02:56 AMT 2024","passed","Tue Sep 24 02:03:02 AMT 2024","","test_main","",""
+"Test changing password with mismatched confirmation password","5526","Test Change Password with Mismatched Confirmation","","Tue Sep 24 02:02:51 AMT 2024","passed","Tue Sep 24 02:02:56 AMT 2024","","test_main","",""
+"Test changing password with incorrect current password","6563","Test Change Password with Incorrect Current Password","","Tue Sep 24 02:02:44 AMT 2024","passed","Tue Sep 24 02:02:51 AMT 2024","","test_main","",""
+"Test the system with valid login credentials","5382","Test Valid Login","","Tue Sep 24 02:02:39 AMT 2024","passed","Tue Sep 24 02:02:44 AMT 2024","","test_main","",""
